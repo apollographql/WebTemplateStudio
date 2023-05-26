@@ -1,3 +1,9 @@
+# Archival
+This repo was archived on 2023-05-26 by the Apollo Security team.
+
+This repo is a fork of `microsoft/WebTemplateStudio`. Please refer to [the upstream repo](https://github.com/microsoft/WebTemplateStudio) with any questions or for newer versions of this code.
+
+
 # Microsoft Web Template Studio
 
 <img src="https://img.shields.io/badge/platform-linux--64%20%7C%20win--64%20%7C%20osx--64%20-lightgrey.svg" alt="Platforms Supported: MacOSX, Linux, Windows"/> <a href="https://www.repostatus.org/#active"><img src="https://www.repostatus.org/badges/latest/active.svg" alt="Project Status: Active – The project has reached a stable, usable state and is being actively developed." /></a> <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License: We are using the MIT License"></a> <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg" alt="We are welcoming PRS!"></a>
